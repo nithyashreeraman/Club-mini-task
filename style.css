@@ -1,0 +1,91 @@
+
+
+table{
+    border: 1px solid black;
+  border-collapse: collapse;
+  }
+
+  .d1{
+   text-align: center;
+   align-items: center;
+      font-style: italic;
+      font-family: "Brush Script MT", cursive;
+      font-size: 20px;
+     
+  }
+.r1{
+    border: 1px solid black;
+  border-collapse: collapse;
+      height: 200px;
+  }
+
+h3{
+    text-align: center;
+    
+    font-style: italic;
+    font-family: Georgia, serif;
+}
+.c1{
+    border: 1px solid black;
+  border-collapse: collapse;
+  vertical-align: top;
+
+  }
+
+  .c2{
+    width: 700px;
+    border: 1px solid black;
+  border-collapse: collapse;
+  }
+
+  .c3{
+    width: 300px;
+    border: 1px solid black;
+  border-collapse: collapse;
+  vertical-align: top;
+  }
+
+  .c4{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 100px;
+    vertical-align: top;
+    
+  }
+
+  
+
+td img{
+    height: 300px;
+    width: 650px;
+    margin: 0% auto;
+    display: block;
+    
+    
+}
+
+.c5{
+    background-color: rgb(202, 247, 6);
+}
+
+.c6{
+    background-color: rgb(33, 181, 192);
+}
+.c7{
+    background-color: rgb(60, 190, 60);  
+}
+.c8{
+    background-color: rgb(0, 17, 255);
+}
+
+.c9{
+    background-color: rgb(200, 19, 224);
+}
+
+.c5, .c6, .c7, .c8, .c9{
+    font-weight: bold;
+    height: 30px;   
+    font-size: 20px;
+    padding: 5px;
+}
+
